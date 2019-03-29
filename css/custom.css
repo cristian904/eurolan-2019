@@ -318,8 +318,7 @@
 	top: 30px;
 }
 
-
-
-
-
-
+.custom-item{
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+  background-repeat: no-repeat;
+}
