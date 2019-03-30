@@ -326,6 +326,8 @@
   /* inline-block space fix */
   margin-right:-4px;
   text-align: center;
+  vertical-align: top;
+  float: none;
 }
 
 .row-centered {
